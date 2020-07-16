@@ -18,3 +18,6 @@ Resources:
           Properties:
             Path: /getazs
             Method: get
+      Environment:
+        Variables:
+          REGION: ap-southeast-2      
